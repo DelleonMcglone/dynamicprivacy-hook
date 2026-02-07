@@ -200,28 +200,6 @@ The contract is optimized for gas efficiency:
 - Minimal external calls
 - ~112k gas per commitment operation
 
-## License
-
-MIT License - See LICENSE file for details
-
-## Contributing
-
-Contributions welcome! Please:
-1. Fork the repository
-2. Create a feature branch
-3. Add tests for new functionality
-4. Ensure all tests pass
-5. Submit a pull request
-
-## Acknowledgments
-
-Built for Uniswap v4 Hook Hackathon
-Powered by Uniswap v4 and Foundry
-
-## Contact
-
-For questions or support, please open an issue on GitHub.
-
 ---
 
 **⚠️ Disclaimer**: This is experimental software. Use at your own risk. Always test thoroughly on testnets before deploying to mainnet.
