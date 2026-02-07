@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Replace with your actual deployed hook address
-HOOK_ADDRESS="YOUR_HOOK_ADDRESS_HERE"
+HOOK_ADDRESS="0x072587360F55aceE8A8Df2d3122161049d8Acb71"
 RPC_URL="https://sepolia.unichain.org"
 
 echo "=================================="
